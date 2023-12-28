@@ -1,7 +1,7 @@
 {
     "name": "SchluesPack",
     "version_number": "1.0.0",
-    "website_url": "",
+    "website_url": "https://github.com/schlues/SchluesPack",
     "description": "modpack for all hatsune miku enjoyers",
     "dependencies": [
         "2018-LC_API-3.1.0",
